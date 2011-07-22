@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml;
 using System.IO;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     public class XmlHandler
     {

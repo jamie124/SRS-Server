@@ -1,4 +1,4 @@
-﻿namespace SRS_Server.Net
+﻿namespace srs_server
 {
     partial class frmMain
     {

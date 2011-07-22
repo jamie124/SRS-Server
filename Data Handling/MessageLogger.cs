@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     public class MessageLogger
     {

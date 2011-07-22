@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 using System.IO;
 using System.Xml;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     // Custom Dictionary Serializer
     public class DictionarySerializer<K, V>

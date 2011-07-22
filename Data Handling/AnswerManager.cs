@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     // Currently the answer is only tied to the user by the username
     // further developments may require more data.

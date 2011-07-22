@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.Runtime.Serialization;
 using System.Threading;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     [Serializable()]
     // This is cut down version of the userDetails, containing only the important information

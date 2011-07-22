@@ -5,7 +5,7 @@ using System.Text;
 using System.Net.Sockets;
 using System.Text.RegularExpressions;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     // Holds information about an instruction to be executed
     public class Instruction

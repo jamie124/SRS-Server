@@ -9,7 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     public class Network
     {

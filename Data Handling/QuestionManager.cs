@@ -6,7 +6,7 @@ using System.Text;
 using System.Runtime.Serialization;
 using System.Net.Sockets;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     [Serializable()]
     public class question

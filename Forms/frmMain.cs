@@ -10,7 +10,7 @@ using System.Timers;
 using System.Net.Sockets;
 using System.IO;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     public partial class frmMain : Form
     {

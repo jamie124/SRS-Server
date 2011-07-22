@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SRS Server.Net")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Nelson Marlborough Institute of Technology")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SRS Server.Net")]
-[assembly: AssemblyCopyright("Copyright © Nelson Marlborough Institute of Technology 2010")]
+[assembly: AssemblyCopyright("Copyright © 2011 James Whitwell")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     // A chat message is a short message that is sent to either one or all other clients
     // A future modification would be to support sending to specific clients

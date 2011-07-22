@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace SRS_Server.Net
+namespace srs_server
 {
     public partial class frmTutors : Form
     {
